@@ -3,7 +3,7 @@ attr_accessor :all
 
 @@all = []
 
-def initialize 
+def initialize(all)
   @@all << @all 
 end
 
