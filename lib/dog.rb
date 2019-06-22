@@ -1,5 +1,5 @@
 class Dog 
-attr_accessor :all
+attr_accessor :all, :clear_all
 
 
 @@all = []
@@ -12,7 +12,7 @@ def self.all
      @@all
 end
   
-def clear_all.clear 
+def clear_all
   @@all.clear 
 end
 
