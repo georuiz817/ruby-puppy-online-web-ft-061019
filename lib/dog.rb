@@ -2,8 +2,9 @@ class Dog
   
 @@all = []
 
-def all_dogs 
-  
+def self.all
+     @@all
+end
   
   
   
