@@ -5,7 +5,7 @@ attr_accessor :all
 
 def initialize 
   @@all << @all 
-
+end
 
 def self.all
      @@all
