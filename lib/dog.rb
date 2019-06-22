@@ -10,7 +10,7 @@ end
 
 def self.all
      @@all
-     
+     puts dog.name
 end
   
 def self.clear_all
