@@ -1,5 +1,5 @@
 class Dog 
-attr_accessor :all, :clear_all
+attr_accessor :all
 
 
 @@all = []
